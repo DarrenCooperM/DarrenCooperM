@@ -11,10 +11,12 @@ HTML, CSS, Tailwind, Javascript, Node.JS, Express, MySQL, React.JS.
 
 A bit about me: <br/>
 <li> love the gym <br/>
-<li> love off-roading in my 4wd <br/>
+<li> love off-roading <br/>
 <li> love discovering new music across all genres <br/>
 <li> love learning anything and everything <br/>
 <li> Big LOTR fan <br/>
+  
+My ultimate goal is to achieve a WFH job as this will allow me to have more time in my life to do things I want to do.
 
 
 
