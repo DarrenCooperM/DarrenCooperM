@@ -7,7 +7,7 @@ I have been studying full stack development, AI & Cloud with Mission Ready HQ si
 I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! 
 
 At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
-HTML, CSS, Tailwind, Javascript, Node.JS, Express, MySQL, React.JS.
+HTML, CSS, Tailwind, Javascript, React.JS, Node.JS, Express, MySQL, MongoDB and Docker
 
 A bit about me: <br/>
 <li> love the gym <br/>
