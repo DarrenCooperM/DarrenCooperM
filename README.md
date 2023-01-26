@@ -8,6 +8,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud!
 
 At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
 HTML, CSS, Tailwind, Javascript, React.JS, Node.JS, Express, MySQL, MongoDB and Docker
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,react.js,node.js.express.js,mysql,mongodb,docker)](https://skillicons.dev)
 
 A bit about me: <br/>
 <li> love the gym <br/>
