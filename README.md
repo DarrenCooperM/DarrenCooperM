@@ -4,7 +4,7 @@ I'm a software developer from Auckland, NZ.
 
 I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. 
 
-I am a big fan of working with AI & Cloud and learning all things to do with Web development! 
+I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! 
 
 At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
 HTML, CSS, Tailwind, Javascript, Node.JS, Express, MySQL, React.JS.
