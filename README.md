@@ -7,7 +7,7 @@ I have been studying full stack development, AI & Cloud with Mission Ready HQ si
 I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! 
 
 At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,node,express,mysql,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,expressjs,mysql,mongodb,docker)](https://skillicons.dev)
 
 A bit about me: <br/>
 <li> love the gym <br/>
