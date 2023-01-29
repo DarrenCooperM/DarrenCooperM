@@ -18,16 +18,16 @@
 <br>
 
 <div align="center"><h2>Tech Stack</h2></div>
-I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy my applications</p>
+<p align="center">I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy my applications</p>
 
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built them using: </br> </p>
 
-<p align="center">
+<div align="center">
     <p>HTML5, CSS, Tailwind, Styled Components, JavaScript, React.js, Node.js, Express.js, Git, GitHub, Docker, Mongodb, MySQL, AWS, Azure</br> </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,react,nodejs,express,git,github,docker,mongodb,mysql,aws,azure" />
   </a>
-</p>
+</div>
 
 <div align="center"><h2>Projects</h2>
 <p align="center">Here's a few applications I did at Mission Ready HQ</p>
