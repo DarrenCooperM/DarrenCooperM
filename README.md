@@ -14,7 +14,7 @@
 
 
 
-  <p align="left">I have been studying <b>Full Stack Development, AI & Cloud</b> with <a href="https://www.missionreadyhq.com/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGJzjsBsywKtCTZB4BdQfeJ6XSyS23BYYaFf-zZyxllcB3Aai_paZNIaAg0fEALw_wcB"> MISSION READY HQ </a>since July 2022. </p>
+  <p align="left">I have been studying <b>Full Stack Development, AI & Cloud</b> with <a href="https://www.missionreadyhq.com/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGJzjsBsywKtCTZB4BdQfeJ6XSyS23BYYaFf-zZyxllcB3Aai_paZNIaAg0fEALw_wcB"> MISSION READY HQ</a> since July 2022. </p>
 
 <br>
 
