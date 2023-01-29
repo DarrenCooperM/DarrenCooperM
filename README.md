@@ -35,8 +35,12 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
 <li> Big LOTR fan <br/>
  </div>
 
-
-
+<div align="center"><h2>Contact</h2>
+  <p>linkedin!</p>
+  <a href="https://www.linkedin.com/in/dcoopermatila/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
