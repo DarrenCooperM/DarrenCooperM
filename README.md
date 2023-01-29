@@ -40,6 +40,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
   <a href="https://www.linkedin.com/in/dcoopermatila/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <p >📧 darrenc@missionreadyhq.com </p>
 </div>
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
