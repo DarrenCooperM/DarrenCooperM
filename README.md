@@ -1,21 +1,22 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Darren's+GitHub"/>
 
-I'm a software developer from Auckland, NZ.
+<p algin='center'>I'm a software developer from Auckland, NZ.</p>
 
-I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. 
+<p algin='center'>I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. 
 
-I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! 
+<p algin='center'>I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! 
 
-At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
+<p algin='center'>At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,expressjs,mysql,mongodb,docker)](https://skillicons.dev)
+<p algin='center'>[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,expressjs,mysql,mongodb,docker)](https://skillicons.dev)
 
-A bit about me: <br/>
+<p algin='center'>A bit about me: <br/>
 <li> love the gym <br/>
 <li> love off-roading <br/>
 <li> love discovering new music across all genres <br/>
 <li> love learning anything and everything <br/>
 <li> Big LOTR fan <br/>
+</p>
  
 
 
