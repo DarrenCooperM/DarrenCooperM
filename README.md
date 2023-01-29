@@ -33,7 +33,11 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
 <li> love learning anything and everything <br/>
 <li> Big LOTR fan <br/>
  </div>
-
+ 
+ <div align="center"><h2>Certificate</h2>
+ <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png"  height="200" width="275"/>
+  </div>
+  
 <div align="center"><h2>Contact</h2>
   <p>Linkedin!</p>
 <a href="https://www.linkedin.com/in/dcoopermatila/">
