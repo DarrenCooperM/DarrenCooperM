@@ -14,7 +14,7 @@
 
 
 
-<p align="left">I have been studying Full Stack Development, AI & Cloud with Mission Ready HQ since July 2022. </p>
+  <p align="left">I have been studying <b>Full Stack Development</b>, AI & Cloud with Mission Ready HQ since July 2022. </p>
 
 <br>
 
