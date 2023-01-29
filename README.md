@@ -51,7 +51,7 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
 </div>
   
   <h2>GitHub Stats</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarrenCooperM&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarrenCooperM&repo=convoychat" />
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
