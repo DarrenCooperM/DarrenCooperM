@@ -5,11 +5,11 @@
   <h1 align="center">A bit about me</h1>
   <div align="left">
     <p><b> I'm a Full Stack Developer from Auckland, NZ.</b> </p>
-    <p>🏋🏻love the gym </p> 
-    <p>🚙love off-roading </p>
-    <p>🎶love discovering new music across all genres </p> 
-    <p>📙love learning anything and everything </p>
-    <p>🧙‍♂️Big LOTR fan </p> 
+    <p> 🏋🏻love the gym </p> 
+    <p> 🚙love off-roading </p>
+    <p> 🎶love discovering new music across all genres </p> 
+    <p> 📙love learning anything and everything </p>
+    <p> 🧙‍♂️Big LOTR fan </p> 
 </div>
 
 
