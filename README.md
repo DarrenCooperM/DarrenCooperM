@@ -50,6 +50,8 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
 </div>
   
+  <h2>GitHub Stats</h2>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
