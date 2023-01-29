@@ -1,4 +1,4 @@
-Hey! My name is Darren 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Welcome+To+Darren's+GitHub" alt="Typing SVG" /></a>
 
 I'm a software developer from Auckland, NZ.
 
