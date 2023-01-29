@@ -16,6 +16,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
   <p>Here's a link to my linkedin!</p>
   <a href="https://www.linkedin.com/in/dcoopermatila/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 A bit about me: <br/>
