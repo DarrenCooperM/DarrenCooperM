@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👋+Welcome+to+Darren's+GitHub.+Have+Fun!"/>
   
   <div align="center"><h1>A bit about me</h1>
-  <b> I'm a software developer from Auckland, NZ. </b> <br>
+  <b> I'm a Full Stack Developer from Auckland, NZ. </b> <br>
     <p>🏋🏻love the gym </p> 
     <p>🚙love off-roading </p>
     <p>🎶love discovering new music across all genres </p> 
