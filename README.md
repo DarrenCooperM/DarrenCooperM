@@ -37,10 +37,9 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
   <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif" height="200" width="275"/>
  </div>
   
-  <div align="center"><h2>GitHub Stats</h2>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
     [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarrenCooperM)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+
   
 <div align="center"><h2>Contact</h2>
   <p>Linkedin!</p>
