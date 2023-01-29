@@ -11,8 +11,11 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,git,docker,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,git,github,docker,aws,azure,discord" />
   </a>
+  <p>Here's a link to my linkedin!</p>
+  <a href="https://www.linkedin.com/in/dcoopermatila/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
 
 A bit about me: <br/>
