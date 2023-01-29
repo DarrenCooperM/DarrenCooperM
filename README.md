@@ -1,10 +1,10 @@
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Darren's+GitHub"/>
+<div align="center"<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Darren's+GitHub"/>
 
-<p align="center">I'm a software developer from Auckland, NZ.</p>
+I'm a software developer from Auckland, NZ.</p>
 
-<p align="center">I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. </p>
+I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. </p>
 
-<p align="center">I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </p>
+I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </p>
 
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br> </p>
 </br>
@@ -16,7 +16,7 @@ A bit about me: <br/>
 <li> love discovering new music across all genres <br/>
 <li> love learning anything and everything <br/>
 <li> Big LOTR fan <br/>
- 
+ </div>
 
 
 
