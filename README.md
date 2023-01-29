@@ -8,7 +8,12 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
 
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br> </p>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,expressjs,mysql,mongodb,docker)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 A bit about me: <br/>
 <li> love the gym <br/>
