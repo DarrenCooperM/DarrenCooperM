@@ -44,7 +44,6 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
 
 <div align="center"><h2>GitHub Stats</h2></div>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true)
-    <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
