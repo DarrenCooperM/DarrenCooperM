@@ -4,7 +4,7 @@
   
   <div align="center"><h1>A bit about me</h1>
   <b> I'm a software developer from Auckland, NZ. </b>
-    <p>🏋🏻love the gym </p> 
+    <li>🏋🏻love the gym </li> 
     <p>🚙love off-roading </p>
     <p>🎶love discovering new music across all genres </p> 
     <p>📙love learning anything and everything </p>
