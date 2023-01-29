@@ -13,10 +13,6 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,react,nodejs,express,git,github,docker,mongodb,mysql,aws,azure,discord" />
   </a>
-  <p>Here's a link to my linkedin!</p>
-  <a href="https://www.linkedin.com/in/dcoopermatila/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 </p>
 
 <div align="center"><h2>Projects</h2></div>
@@ -36,8 +32,8 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
  </div>
 
 <div align="center"><h2>Contact</h2>
-  <p>linkedin!</p>
-  <a href="https://www.linkedin.com/in/dcoopermatila/">
+  <p>linkedin!  <a href="https://www.linkedin.com/in/dcoopermatila/"></p>
+
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <p >📧 darrenc@missionreadyhq.com </p>
