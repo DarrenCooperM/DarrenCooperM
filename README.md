@@ -27,11 +27,11 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
  </div>
 
 <div align="center"><h2>A bit about me</h2></div>
-<li> love the gym <br/>
-<li> love off-roading <br/>
-<li> love discovering new music across all genres <br/>
-<li> love learning anything and everything <br/>
-<li> Big LOTR fan <br/>
+🏋🏻love the gym <br/>
+🚙love off-roading <br/>
+🎶love discovering new music across all genres <br/>
+📙love learning anything and everything <br/>
+🧙‍♂️Big LOTR fan <br/>
  </div>
   
 <div align="center"><h2>Contact</h2>
