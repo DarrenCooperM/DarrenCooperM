@@ -9,7 +9,7 @@ I have been studying full stack development, AI & Cloud with Mission Ready HQ si
 <div align="center"><h2>Tech Stack</h2></div>
 I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy my applications</p>
 
-<p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br> </p>
+<p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built them using: </br> </p>
 
 <p align="center">
     <p>HTML5, CSS, Tailwind, Styled Components, JavaScript, React.js, Node.js, Express.js, Git, GitHub, Docker, Mongodb, MySQL, AWS, Azure</br> </p>
