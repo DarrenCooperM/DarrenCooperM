@@ -19,7 +19,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
   </a>
 </p>
 
-<div style='display: "flex"; flex-direction: "row"; gap: "15"; justify-content: "space-between"; width:"100%"; background-color: "#000000" ' align="center">
+<div>
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/mx_adobe-exp.gif"  height="300"/>
  </div>
 
