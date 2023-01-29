@@ -27,7 +27,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
   <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif"  height="200" width="275"/>
  </div>
 
-A bit about me: <br/>
+<div align="center"><h2>A bit about me</h2></div>
 <li> love the gym <br/>
 <li> love off-roading <br/>
 <li> love discovering new music across all genres <br/>
