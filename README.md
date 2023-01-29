@@ -42,15 +42,12 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
   <p >📧 darrenc@missionreadyhq.com </p>
 </div>
 
-<div align="center"><h2>GitHub Stats</h2></div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
  <div align="center"><h2>Qualifications</h2>
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
-  </div>
- 
+</div><div align="center"><h2>Github Stats</h2></div>
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
