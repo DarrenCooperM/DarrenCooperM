@@ -37,10 +37,6 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
   <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif" height="200" width="275"/>
  </div>
   
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-    [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DarrenCooperM)](https://github.com/anuraghazra/github-readme-stats)
-
-  
 <div align="center"><h2>Contact</h2>
   <p>Linkedin!</p>
 <a href="https://www.linkedin.com/in/dcoopermatila/">
@@ -53,6 +49,8 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
  <div align="center"><h2>Qualifications</h2>
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
 </div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
