@@ -4,7 +4,7 @@
   
   <h1 align="center">A bit About Me</h1>
   <div align="left">
-    <p><b> I'm a Full Stack Developer from Auckland, NZ.</b> </p>
+    <p><b> I am a proud Maori Full Stack Developer from Auckland, NZ.</b> </p>
     <p> 🏋🏻love the gym </p> 
     <p> 🚙love off-roading </p>
     <p> 🎶love discovering new music across all genres </p> 
