@@ -32,8 +32,8 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
  </div>
 
 <div align="center"><h2>Contact</h2>
-  <p>linkedin!  <a href="https://www.linkedin.com/in/dcoopermatila/"></p>
-
+  <p>Linkedin!</p>
+<a href="https://www.linkedin.com/in/dcoopermatila/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <p >📧 darrenc@missionreadyhq.com </p>
