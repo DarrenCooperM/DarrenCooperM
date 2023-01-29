@@ -11,7 +11,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html5,css,tailwind,js,react,nodejs,express,git,docker,aws,azure" />
   </a>
 </p>
 
