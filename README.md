@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E6F75B&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" /></div>
+<div align="center"<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Welcome+to+Phoebe's+GitHub"/>
 
 I'm a software developer from Auckland, NZ.</p>
 
