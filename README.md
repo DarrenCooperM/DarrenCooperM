@@ -8,7 +8,7 @@
 
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br>
 </br>
-<p align="center">[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,expressjs,mysql,mongodb,docker)](https://skillicons.dev)
+<p align="center"> [![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,nodejs,expressjs,mysql,mongodb,docker)](https://skillicons.dev)
 
 A bit about me: <br/>
 <li> love the gym <br/>
