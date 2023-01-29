@@ -36,16 +36,7 @@
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/gym.gif"  height="200" width="275" />
   <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif" height="200" width="275"/>
  </div>
-  
-<div align="center"><h1>Contact</h1>
-  <p>Linkedin!</p>
-<a href="https://www.linkedin.com/in/dcoopermatila/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <p >📧 darrenc@missionreadyhq.com </p>
-</div>
-
-
+ 
  <div align="center"><h1>Qualifications</h1>
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
 </div>
@@ -53,6 +44,14 @@
   <h1>GitHub Stats</h1>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact&theme=radical" />
+  
+  <div align="center"><h1>Contact</h1>
+  <p>Linkedin!</p>
+<a href="https://www.linkedin.com/in/dcoopermatila/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <p >📧 darrenc@missionreadyhq.com </p>
+</div>
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
