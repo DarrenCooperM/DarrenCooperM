@@ -23,7 +23,7 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
 <div style='display: "flex"; flex-direction: "row"; gap: "15"; justify-content: "space-between"; width:"100%"; background-color: "#000000" ' align="center">
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/mx_adobe-exp.gif"  height="200"width="275" />
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/gym.gif"  height="200" width="275" />
-  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif"  height="200" width="275"/>
+  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif"/>
  </div>
 
 <div align="center"><h2>A bit about me</h2></div>
