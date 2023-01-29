@@ -23,7 +23,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
 <p align="center">Here's a few applications I did at Mission Ready HQ</p>
 <div style='display: "flex"; flex-direction: "row"; gap: "15"; justify-content: "space-between"; width:"100%"; background-color: "#000000" ' align="center">
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/mx_adobe-exp.gif"  height="200"/>
- <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/gymapp.gif"  height="200"/>
+ <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/gym-app.gif"  height="200"/>
  </div>
 
 A bit about me: <br/>
