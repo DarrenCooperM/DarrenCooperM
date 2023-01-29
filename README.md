@@ -6,6 +6,7 @@ I'm a software developer from Auckland, NZ.</p>
 
 I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. </p>
 
+<div align="center"><h2>Tech Stack</h2></div>
 I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </p>
 
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built projects using: </br> </p>
