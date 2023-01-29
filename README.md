@@ -33,10 +33,6 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
 <li> love learning anything and everything <br/>
 <li> Big LOTR fan <br/>
  </div>
- 
- <div align="center"><h2>Certificate</h2>
- <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
-  </div>
   
 <div align="center"><h2>Contact</h2>
   <p>Linkedin!</p>
@@ -45,6 +41,10 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
   </a>
   <p >📧 darrenc@missionreadyhq.com </p>
 </div>
+
+ <div align="center"><h2>Qualifications</h2>
+ <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
+  </div>
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
