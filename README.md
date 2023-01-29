@@ -12,6 +12,7 @@ I am a big fan of working with React, Node.js, Computer Vision and AWS Cloud! </
 </br>
 
 <p align="center">
+    <p>HTML5, CSS, Tailwind, Styled Components, JavaScript, React.js, Node.js, Express.js, Git, GitHub, Docker, Mongodb, MySQL, AWS, Azure</br> </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,react,nodejs,express,git,github,docker,mongodb,mysql,aws,azure" />
   </a>
