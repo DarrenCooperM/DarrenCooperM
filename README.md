@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👋+Welcome+to+Darren's+GitHub.+Have+Fun"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👋+Welcome+to+Darren's+GitHub.+Have+Fun!"/>
 
 I'm a software developer from Auckland, NZ.</p>
 
