@@ -1,10 +1,19 @@
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=👋+Welcome+to+Darren's+GitHub.+Have+Fun!"/>
+  
+  <div align="center"><h2>A bit about me</h2></div>
+  <b> I'm a software developer from Auckland, NZ. </b>
+    <p>🏋🏻love the gym </p> <br/>
+    <p>🚙love off-roading </p> <br/>
+    <p>🎶love discovering new music across all genres </p> <br/>
+    <p>📙love learning anything and everything </p> <br/>
+    <p>🧙‍♂️Big LOTR fan </p> <br/>
+</div>
 
-I'm a software developer from Auckland, NZ.</p>
 
-I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. </p>
+
+<p>I have been studying full stack development, AI & Cloud with Mission Ready HQ since July 2022. </p>
 
 <div align="center"><h2>Tech Stack</h2></div>
 I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy my applications</p>
@@ -25,14 +34,6 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/gym.gif"  height="200" width="275" />
   <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/metro-AdobeExpress.gif" height="200" width="275"/>
  </div>
-
-<div align="center"><h2>A bit about me</h2></div>
-🏋🏻love the gym <br/>
-🚙love off-roading <br/>
-🎶love discovering new music across all genres <br/>
-📙love learning anything and everything <br/>
-🧙‍♂️Big LOTR fan <br/>
- </div>
   
 <div align="center"><h2>Contact</h2>
   <p>Linkedin!</p>
@@ -46,8 +47,6 @@ I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy
  <div align="center"><h2>Qualifications</h2>
  <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
 </div>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 DarrenCooperM/DarrenCooperM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
