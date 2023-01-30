@@ -43,7 +43,7 @@
  </div>
  
  <div align="center">
-   <h1>Qualifications</h1>
+   <h1>Tech Qualifications</h1>
    <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
 </div>
   
