@@ -24,7 +24,7 @@
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built them using: </br> </p>
 
 <div align="center">
-    <p>HTML5|CSS|TAILWIND|JAVASCRIPT|REACT|NODE|EXPRESS|GIT|GITHUB|DOCKER|MONGODB|MYSQL|AZURE</br> </p>
+    <p>HTML5 | CSS | TAILWIND | JAVASCRIPT | REACT  |NODE | EXPRESS | GIT | GITHUB | DOCKER | MONGODB | MYSQL | AZURE</br> </p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,react,nodejs,express,git,github,docker,mongodb,mysql,azure" />
   </a>
