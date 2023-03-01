@@ -26,7 +26,7 @@
 <div align="center">
     <b>HTML5 | CSS | TAILWIND | JAVASCRIPT | Typescript | REACT | IONIC | NODE | EXPRESS | GIT | GITHUB | DOCKER | MONGODB | MYSQL | AZURE</br> </b>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,ionic,nodejs,express,git,github,docker,mongodb,mysql,azure" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,git,github,docker,mongodb,mysql,azure" />
   </a>
 </div>
 
