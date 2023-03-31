@@ -50,6 +50,7 @@
   
   <h1>GitHub Stats</h1>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact&theme=radical" />
   
 
   <div align="center"><h1>Contact</h1>
