@@ -19,7 +19,7 @@
 <br>
 
 <div align="center"><h1>Tech Stack</h1></div>
-<p align="center">I am a big fan of using React, Node.js, Docker and AWS Cloud to build and deploy my applications. I am currently learning or interested in learning Nextjs, Angular, Vue, Typescript and Python</p>
+<p align="center">I am a big fan of using React, Nodejs, Docker and AWS Cloud to construct and deploy my applications. I am currently learning or interested in learning the T3 Stack, Next.JS, and using third party api integration to build SAAS solutions</p>
 
 <p align="center">At the moment most of my time is spent making projects through Mission Ready, I've built them using: </br> </p>
 
