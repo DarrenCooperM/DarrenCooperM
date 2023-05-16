@@ -45,9 +45,10 @@
  <div align="center">
    <h1>Tech Qualifications</h1>
    <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/blob/main/Darren-Cooper-Matila-Mission-Ready-Level-4-Cert..png" />
-      <img class="img" src="https://user-images.githubusercontent.com/105528130/229015452-793c8544-1135-4ff0-9866-81d45670a860.PNG" />
+   <img class="img" src="https://user-images.githubusercontent.com/105528130/229015452-793c8544-1135-4ff0-9866-81d45670a860.PNG" />
+   <img class="img" src="https://github.com/DarrenCooperM/DarrenCooperM/assets/105528130/a6e9ae85-2645-4b3d-85a5-a88333ff5518" />
 </div>
-  
+
   <h1>GitHub Stats</h1>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarrenCooperM&show_icons=true&theme=radical" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarrenCooperM&layout=compact&theme=radical" />
