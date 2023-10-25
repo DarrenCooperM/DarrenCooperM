@@ -14,7 +14,7 @@
 
 
 
-  <p align="left">I studied <b>Full Stack Development, AI & Cloud</b> with <a href="https://www.missionreadyhq.com/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGJzjsBsywKtCTZB4BdQfeJ6XSyS23BYYaFf-zZyxllcB3Aai_paZNIaAg0fEALw_wcB"> MISSION READY HQ</a> and am now a Software Developer for <a href="https://www.cross-solutions.com.au/">Cross Solutions</a> </p>
+  <p align="left">I studied <b>Full Stack Development, AI & Cloud</b> with <a href="https://www.missionreadyhq.com/?gclid=Cj0KCQiAz9ieBhCIARIsACB0oGJzjsBsywKtCTZB4BdQfeJ6XSyS23BYYaFf-zZyxllcB3Aai_paZNIaAg0fEALw_wcB"> MISSION READY HQ</a></p>
 
 <br>
 
